@@ -1,2 +1,2 @@
 # repositorio-1
- Primeiro repositorio versionado 
+ Primeiro repositorio versionado, entendendo como funcionam os commits
